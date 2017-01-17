@@ -1,0 +1,41 @@
+body {
+	background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Light-aluminum-Grey-Seamless-Pattern-For-Website-Background.jpg);
+	font-family: sans-serif;
+}
+
+#status
+{
+	margin-bottom: 25px;
+}
+
+#level_title {
+	font-size: 18px;
+	color: black;		
+	font-weight: bold;
+}
+
+#level_image {
+	width: 100%;
+}
+#option2
+{
+	display: none;
+}
+#option3
+{
+	display: none;
+}
+img
+{
+	margin-top: 10px;
+}
+main
+{
+	margin-left: 25%;
+	width: 50%;
+}
+h1
+{
+	font-size: 200%;
+	margin: 115px 0px 125px 25%;
+}
